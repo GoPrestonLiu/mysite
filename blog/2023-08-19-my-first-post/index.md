@@ -1,5 +1,5 @@
 ---
-slug: stuff
+slug: my-first-post
 title: My first post
 authors: 
   name: Preston Liu
@@ -10,3 +10,4 @@ tags: [hashtag#1, hashtag#2, hashtag#3, hashtag#4]
 ---
 
 Hello world.
+![Mountain](./mountain.jpg)
